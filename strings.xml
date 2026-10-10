@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agent Pilot</string>
+    <string name="service_desc">Agent Pilot screen padhta hai aur sirf tumhare diye goal ke hisaab se tap/type/scroll karta hai. Data tumhare chune hue AI provider ko jaata hai.</string>
+</resources>
